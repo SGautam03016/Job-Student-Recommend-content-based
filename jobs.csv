@@ -1,0 +1,51 @@
+Job_ID,Company,Job_Role,Required_Skills,Experience_Level
+1,Tesla,Cloud Engineer,"C++, Machine Learning, Cloud Computing",3 years
+2,Microsoft,Software Engineer,"Cloud Computing, Cybersecurity",Fresher
+3,Infosys,ML Engineer,"Web Development, C++",2 years
+4,Oracle,Data Analyst,"Data Science, DevOps, Java",Fresher
+5,Microsoft,Cloud Engineer,"Cybersecurity, Cloud Computing, SQL",5+ years
+6,Oracle,Software Engineer,"Cloud Computing, Web Development",5+ years
+7,Amazon,Cybersecurity Specialist,"Java, DevOps",5+ years
+8,Infosys,Data Analyst,"Data Science, Python, SQL, Java",2 years
+9,TCS,ML Engineer,"DevOps, Java, Python",5+ years
+10,Facebook,Software Engineer,"Machine Learning, Cloud Computing, Java",3 years
+11,TCS,Data Analyst,"Cybersecurity, Python",1 year
+12,Amazon,ML Engineer,"Cloud Computing, Java, C++, Data Science",1 year
+13,Tesla,Cybersecurity Specialist,"Data Science, Java, Python",2 years
+14,Amazon,Cloud Engineer,"Machine Learning, DevOps, SQL, Web Development",5+ years
+15,Microsoft,Cloud Engineer,"DevOps, Java, SQL, Cybersecurity",1 year
+16,IBM,Software Engineer,"Cloud Computing, DevOps, Web Development",2 years
+17,Amazon,Cybersecurity Specialist,"Python, Cybersecurity, Web Development, DevOps",2 years
+18,IBM,Data Analyst,"DevOps, C++",5+ years
+19,Amazon,Software Engineer,"SQL, C++, Data Science, Python",5+ years
+20,Google,Cloud Engineer,"Python, Cybersecurity, SQL, Machine Learning",3 years
+21,Amazon,Cloud Engineer,"DevOps, Python",1 year
+22,IBM,Software Engineer,"DevOps, C++",3 years
+23,Oracle,Cybersecurity Specialist,"Python, Cybersecurity, Data Science, SQL",1 year
+24,Microsoft,Data Analyst,"DevOps, Cloud Computing, Java, C++",Fresher
+25,Facebook,Cloud Engineer,"Data Science, SQL, C++, DevOps",Fresher
+26,Google,Cybersecurity Specialist,"Python, Data Science, Machine Learning, Cybersecurity",3 years
+27,TCS,Data Analyst,"Cybersecurity, Python, Cloud Computing, C++",3 years
+28,Oracle,Cloud Engineer,"Java, Python, Cloud Computing, Cybersecurity",3 years
+29,Tesla,Cloud Engineer,"Java, Data Science, Cloud Computing",5+ years
+30,Amazon,Data Analyst,"Machine Learning, Cybersecurity, Cloud Computing, C++",1 year
+31,TCS,Software Engineer,"SQL, Web Development",1 year
+32,IBM,ML Engineer,"Cloud Computing, Web Development, Java",5+ years
+33,Oracle,Cybersecurity Specialist,"Cloud Computing, Cybersecurity",2 years
+34,Amazon,Cloud Engineer,"Python, Cybersecurity, Web Development, C++",1 year
+35,Amazon,Cybersecurity Specialist,"Java, Web Development",1 year
+36,Amazon,Data Analyst,"DevOps, Python, Data Science",Fresher
+37,Amazon,ML Engineer,"Web Development, Cybersecurity",2 years
+38,Infosys,Software Engineer,"Data Science, Java, Machine Learning, C++",1 year
+39,IBM,Software Engineer,"Python, C++, Cloud Computing, Machine Learning",5+ years
+40,Amazon,Data Analyst,"Python, Cloud Computing, Cybersecurity, C++",Fresher
+41,Tesla,Cybersecurity Specialist,"Web Development, DevOps",1 year
+42,Facebook,Cloud Engineer,"Cybersecurity, Data Science, Web Development",1 year
+43,Facebook,Data Analyst,"DevOps, Cloud Computing, Java, Cybersecurity",5+ years
+44,Amazon,ML Engineer,"Cybersecurity, Python",2 years
+45,Microsoft,Software Engineer,"Web Development, Python",1 year
+46,Wipro,ML Engineer,"Data Science, Cloud Computing, Python",1 year
+47,Facebook,Cybersecurity Specialist,"Web Development, Cloud Computing, Cybersecurity",Fresher
+48,Tesla,Cybersecurity Specialist,"SQL, DevOps, Java",Fresher
+49,TCS,ML Engineer,"Cybersecurity, Web Development, Cloud Computing, Java",1 year
+50,Tesla,Cybersecurity Specialist,"Cloud Computing, C++",5+ years

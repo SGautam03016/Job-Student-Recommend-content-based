@@ -1,0 +1,101 @@
+Student_ID,Name,Skills,Education,Experience
+1,Student_1,"Python, Machine Learning, Cybersecurity, Web Development, Cloud Computing",M.Tech,5+ years
+2,Student_2,"Python, Cloud Computing, Java, Web Development, C++",M.Tech,3 years
+3,Student_3,"Java, DevOps, C++, Cloud Computing",B.Tech,2 years
+4,Student_4,"Machine Learning, Data Science, SQL, DevOps, Cloud Computing",M.Sc,2 years
+5,Student_5,"Cloud Computing, SQL, Cybersecurity, DevOps",B.Sc,3 years
+6,Student_6,"Python, Cybersecurity, Cloud Computing, C++, DevOps",M.Tech,2 years
+7,Student_7,"Cybersecurity, Web Development, Java",M.Sc,2 years
+8,Student_8,"DevOps, Machine Learning, Web Development, SQL",M.Tech,3 years
+9,Student_9,"Cloud Computing, SQL, C++, Data Science",M.Tech,2 years
+10,Student_10,"Java, DevOps, Web Development, Cloud Computing",M.Sc,3 years
+11,Student_11,"Cybersecurity, Python, Web Development",B.Sc,2 years
+12,Student_12,"Java, Cloud Computing, Data Science",B.Sc,3 years
+13,Student_13,"Java, Web Development, C++, Machine Learning, SQL",M.Tech,3 years
+14,Student_14,"Web Development, Java, Cloud Computing",B.Sc,5+ years
+15,Student_15,"Machine Learning, Java",MBA,2 years
+16,Student_16,"SQL, Data Science, Java, DevOps",M.Sc,3 years
+17,Student_17,"Web Development, Data Science, Machine Learning, SQL, Cybersecurity",B.Sc,1 year
+18,Student_18,"Machine Learning, Java, DevOps",M.Tech,1 year
+19,Student_19,"Python, Java, SQL",M.Sc,5+ years
+20,Student_20,"Python, C++",M.Sc,1 year
+21,Student_21,"C++, Cybersecurity, DevOps, Java",M.Sc,Fresher
+22,Student_22,"Cybersecurity, SQL",B.Sc,3 years
+23,Student_23,"DevOps, Machine Learning, Cybersecurity, Data Science",M.Tech,3 years
+24,Student_24,"DevOps, Data Science, C++, Cloud Computing",MBA,1 year
+25,Student_25,"C++, Cybersecurity, Cloud Computing, Machine Learning, DevOps",B.Sc,5+ years
+26,Student_26,"Java, Python, Data Science",M.Sc,1 year
+27,Student_27,"C++, SQL",B.Tech,5+ years
+28,Student_28,"Python, Data Science, Java",B.Sc,5+ years
+29,Student_29,"Cloud Computing, Cybersecurity",M.Sc,1 year
+30,Student_30,"Web Development, Java, Data Science, DevOps, C++",B.Sc,3 years
+31,Student_31,"Web Development, C++, Data Science",MBA,3 years
+32,Student_32,"Data Science, Cloud Computing",MBA,1 year
+33,Student_33,"C++, Java, Web Development, Python",M.Sc,5+ years
+34,Student_34,"Machine Learning, Cloud Computing, SQL, Python",M.Sc,3 years
+35,Student_35,"Machine Learning, Cloud Computing",M.Tech,2 years
+36,Student_36,"DevOps, Cybersecurity",MBA,2 years
+37,Student_37,"Web Development, Python, SQL, Cybersecurity, C++",MBA,5+ years
+38,Student_38,"SQL, Python, Data Science, Cloud Computing",M.Sc,3 years
+39,Student_39,"DevOps, Java, Python, SQL, Data Science",M.Sc,1 year
+40,Student_40,"C++, Java, Cloud Computing",MBA,1 year
+41,Student_41,"C++, Cloud Computing, Data Science, DevOps",MBA,1 year
+42,Student_42,"C++, Cybersecurity, DevOps",B.Tech,3 years
+43,Student_43,"DevOps, Cybersecurity, Python, Cloud Computing, C++",M.Tech,1 year
+44,Student_44,"Machine Learning, SQL",M.Sc,1 year
+45,Student_45,"C++, Python",B.Tech,5+ years
+46,Student_46,"Python, Cybersecurity, DevOps, Data Science, Java",B.Sc,3 years
+47,Student_47,"Web Development, Cloud Computing, SQL, Machine Learning",M.Tech,Fresher
+48,Student_48,"Cybersecurity, Machine Learning, C++, Python, Web Development",B.Sc,3 years
+49,Student_49,"Data Science, Java, Machine Learning, Python",M.Sc,5+ years
+50,Student_50,"Cloud Computing, Python",B.Tech,2 years
+51,Student_51,"C++, Cybersecurity, Machine Learning, Cloud Computing",M.Sc,3 years
+52,Student_52,"Python, C++",M.Tech,Fresher
+53,Student_53,"Python, SQL, Java",B.Tech,5+ years
+54,Student_54,"Data Science, Python, Java, Machine Learning, SQL",MBA,2 years
+55,Student_55,"Cloud Computing, Cybersecurity, Data Science, Java, Python",B.Sc,3 years
+56,Student_56,"C++, Java, Data Science, SQL, DevOps",M.Sc,Fresher
+57,Student_57,"DevOps, Cloud Computing, Python, Machine Learning, SQL",M.Tech,Fresher
+58,Student_58,"Cloud Computing, Machine Learning, Web Development, Cybersecurity",MBA,Fresher
+59,Student_59,"Python, Web Development, SQL",B.Sc,1 year
+60,Student_60,"C++, Python, SQL",B.Sc,Fresher
+61,Student_61,"Machine Learning, C++, Web Development",MBA,Fresher
+62,Student_62,"Data Science, Java",B.Sc,2 years
+63,Student_63,"Java, Web Development, SQL, Machine Learning, Python",M.Sc,5+ years
+64,Student_64,"Java, Python, Cloud Computing",B.Sc,2 years
+65,Student_65,"Web Development, Cybersecurity, C++",M.Sc,1 year
+66,Student_66,"Python, Java, Cloud Computing, SQL, Machine Learning",M.Sc,2 years
+67,Student_67,"Data Science, Python",M.Tech,Fresher
+68,Student_68,"Machine Learning, Cloud Computing, SQL",B.Sc,Fresher
+69,Student_69,"Cloud Computing, DevOps, Web Development",M.Sc,2 years
+70,Student_70,"Machine Learning, Data Science, Cybersecurity, Web Development",M.Tech,2 years
+71,Student_71,"SQL, C++",M.Tech,5+ years
+72,Student_72,"Python, SQL, Machine Learning",B.Sc,2 years
+73,Student_73,"SQL, DevOps, Cybersecurity",MBA,3 years
+74,Student_74,"SQL, Web Development, Data Science, C++",M.Sc,2 years
+75,Student_75,"Cloud Computing, C++, Machine Learning, DevOps",MBA,1 year
+76,Student_76,"DevOps, Web Development, Machine Learning, Cloud Computing",B.Tech,1 year
+77,Student_77,"Python, Web Development, SQL, Machine Learning",B.Tech,3 years
+78,Student_78,"Python, Java, SQL",M.Tech,5+ years
+79,Student_79,"SQL, Machine Learning",B.Tech,Fresher
+80,Student_80,"Cybersecurity, Cloud Computing, Web Development, SQL, Machine Learning",B.Tech,5+ years
+81,Student_81,"DevOps, SQL, Cloud Computing, C++",B.Tech,3 years
+82,Student_82,"Java, Data Science",M.Tech,1 year
+83,Student_83,"DevOps, Web Development, Java, Data Science, SQL",MBA,2 years
+84,Student_84,"Cloud Computing, Python, Cybersecurity",B.Tech,1 year
+85,Student_85,"SQL, Data Science",B.Tech,3 years
+86,Student_86,"Machine Learning, Data Science",MBA,Fresher
+87,Student_87,"Cloud Computing, DevOps, Python, Machine Learning, Web Development",B.Sc,1 year
+88,Student_88,"C++, Cloud Computing",B.Tech,5+ years
+89,Student_89,"Cybersecurity, Java, Cloud Computing, C++, Python",MBA,2 years
+90,Student_90,"Cybersecurity, DevOps, Cloud Computing, C++",B.Sc,Fresher
+91,Student_91,"C++, Cybersecurity, Data Science, Machine Learning, DevOps",MBA,1 year
+92,Student_92,"C++, SQL, Cloud Computing, Java",MBA,5+ years
+93,Student_93,"Cloud Computing, Python, Java, Machine Learning",B.Tech,3 years
+94,Student_94,"Data Science, Java, Machine Learning",M.Tech,1 year
+95,Student_95,"Web Development, DevOps, Data Science, Machine Learning",B.Tech,Fresher
+96,Student_96,"Python, Data Science, Web Development, Cybersecurity, SQL",M.Tech,2 years
+97,Student_97,"Machine Learning, Web Development, Cloud Computing",B.Sc,2 years
+98,Student_98,"Cybersecurity, DevOps, Web Development, Cloud Computing, Python",B.Tech,3 years
+99,Student_99,"Cybersecurity, C++, Java, DevOps, SQL",M.Sc,3 years
+100,Student_100,"Cybersecurity, Web Development, Data Science, Machine Learning, Cloud Computing",B.Tech,1 year
